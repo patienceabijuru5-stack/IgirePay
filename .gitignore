@@ -1,0 +1,9 @@
+.idea/
+*.iml
+out/
+*.class
+.env
+.env.*
+!.env.example
+*.log
+transaction_history.csv

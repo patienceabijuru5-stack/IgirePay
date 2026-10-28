@@ -1,0 +1,15 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.class
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and exported transaction data
+*.log
+transaction_history.csv
